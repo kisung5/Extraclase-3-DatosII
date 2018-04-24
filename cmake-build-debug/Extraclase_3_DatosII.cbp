@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug"/>
+				<Option working_dir="/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug"/>
+				<Option working_dir="/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug"/>
+				<Option working_dir="/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Extraclase_3_DatosII">
-				<Option output="/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Extraclase_3_DatosII" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug"/>
+				<Option output="/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Extraclase_3_DatosII" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -54,15 +54,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 Extraclase_3_DatosII"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 Extraclase_3_DatosII"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Extraclase_3_DatosII/fast">
-				<Option output="/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Extraclase_3_DatosII" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug"/>
+				<Option output="/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Extraclase_3_DatosII" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -77,17 +77,17 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 Extraclase_3_DatosII/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 Extraclase_3_DatosII/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/main.cpp">
+		<Unit filename="/home/kisung/CLionProjects/Extraclase-3-DatosII/main.cpp">
 			<Option target="Extraclase_3_DatosII"/>
 		</Unit>
-		<Unit filename="/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/CMakeLists.txt">
+		<Unit filename="/home/kisung/CLionProjects/Extraclase-3-DatosII/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
