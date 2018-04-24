@@ -1,0 +1,3 @@
+/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kisung/CLionProjects/Extraclase-3-DatosII/Extraclase-3-DatosII/cmake-build-debug/CMakeFiles/Extraclase_3_DatosII.dir
