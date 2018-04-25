@@ -123,6 +123,33 @@ Extraclase_3_DatosII/fast:
 	$(MAKE) -f CMakeFiles/Extraclase_3_DatosII.dir/build.make CMakeFiles/Extraclase_3_DatosII.dir/build
 .PHONY : Extraclase_3_DatosII/fast
 
+Interpolation_Search/Interpolation.o: Interpolation_Search/Interpolation.cpp.o
+
+.PHONY : Interpolation_Search/Interpolation.o
+
+# target to build an object file
+Interpolation_Search/Interpolation.cpp.o:
+	$(MAKE) -f CMakeFiles/Extraclase_3_DatosII.dir/build.make CMakeFiles/Extraclase_3_DatosII.dir/Interpolation_Search/Interpolation.cpp.o
+.PHONY : Interpolation_Search/Interpolation.cpp.o
+
+Interpolation_Search/Interpolation.i: Interpolation_Search/Interpolation.cpp.i
+
+.PHONY : Interpolation_Search/Interpolation.i
+
+# target to preprocess a source file
+Interpolation_Search/Interpolation.cpp.i:
+	$(MAKE) -f CMakeFiles/Extraclase_3_DatosII.dir/build.make CMakeFiles/Extraclase_3_DatosII.dir/Interpolation_Search/Interpolation.cpp.i
+.PHONY : Interpolation_Search/Interpolation.cpp.i
+
+Interpolation_Search/Interpolation.s: Interpolation_Search/Interpolation.cpp.s
+
+.PHONY : Interpolation_Search/Interpolation.s
+
+# target to generate assembly for a file
+Interpolation_Search/Interpolation.cpp.s:
+	$(MAKE) -f CMakeFiles/Extraclase_3_DatosII.dir/build.make CMakeFiles/Extraclase_3_DatosII.dir/Interpolation_Search/Interpolation.cpp.s
+.PHONY : Interpolation_Search/Interpolation.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Extraclase_3_DatosII"
+	@echo "... Interpolation_Search/Interpolation.o"
+	@echo "... Interpolation_Search/Interpolation.i"
+	@echo "... Interpolation_Search/Interpolation.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

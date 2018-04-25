@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/kisung/CLionProjects/Extraclase-3-DatosII/Interpolation Search/Interpolation.cpp" "/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/CMakeFiles/Extraclase_3_DatosII.dir/Interpolation_Search/Interpolation.cpp.o"
   "/home/kisung/CLionProjects/Extraclase-3-DatosII/main.cpp" "/home/kisung/CLionProjects/Extraclase-3-DatosII/cmake-build-debug/CMakeFiles/Extraclase_3_DatosII.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

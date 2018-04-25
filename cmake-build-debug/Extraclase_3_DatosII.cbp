@@ -84,6 +84,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/kisung/CLionProjects/Extraclase-3-DatosII/Interpolation Search/Interpolation.cpp">
+			<Option target="Extraclase_3_DatosII"/>
+		</Unit>
+		<Unit filename="/home/kisung/CLionProjects/Extraclase-3-DatosII/Interpolation Search/Interpolation.h">
+			<Option target="Extraclase_3_DatosII"/>
+		</Unit>
 		<Unit filename="/home/kisung/CLionProjects/Extraclase-3-DatosII/main.cpp">
 			<Option target="Extraclase_3_DatosII"/>
 		</Unit>

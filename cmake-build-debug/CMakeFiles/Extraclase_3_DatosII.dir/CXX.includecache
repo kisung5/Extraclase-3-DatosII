@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kisung/CLionProjects/Extraclase-3-DatosII/Interpolation Search/Interpolation.cpp
+Interpolation.h
+/home/kisung/CLionProjects/Extraclase-3-DatosII/Interpolation Search/Interpolation.h
+
+/home/kisung/CLionProjects/Extraclase-3-DatosII/Interpolation Search/Interpolation.h
+
+/home/kisung/CLionProjects/Extraclase-3-DatosII/main.cpp
+iostream
+-
+Interpolation Search/Interpolation.h
+/home/kisung/CLionProjects/Extraclase-3-DatosII/Interpolation Search/Interpolation.h
+
