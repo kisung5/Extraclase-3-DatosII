@@ -1,4 +1,3 @@
-
 //
 // Created by deiber on 4/24/18.
 //
@@ -10,10 +9,10 @@
 
 using namespace std;
 
-int BusquedaSecuencial(int array[], int dato) {
+int BusquedaSecuencial(int array[], int len, int dato) {
     int i = 0;
     bool flag = false;
-    int len = sizeof(array) / sizeof(array[0]);
+//    int len = sizeof(array) / sizeof(array[0]);
     while (!flag && (i <= len)) {
         if (array[i] == dato) {
             flag = true;
@@ -28,5 +27,4 @@ int BusquedaSecuencial(int array[], int dato) {
     }
 }
 
-
-#endif //EXTRACLASE_3_DATOSII_SEQS_H
+#endif EXTRACLASE_3_DATOSII_SEQS_H
