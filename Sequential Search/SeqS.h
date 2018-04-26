@@ -1,10 +1,10 @@
 
 //
-// Created by Roger Valderrama on 4/25/18.
+// Created by deiber on 4/24/18.
 //
 
-#ifndef EXTRACLASE_3_DATOSII_SEQS_HPP
-#define EXTRACLASE_3_DATOSII_SEQS_HPP
+#ifndef EXTRACLASE_3_DATOSII_SEQS_H
+#define EXTRACLASE_3_DATOSII_SEQS_H
 
 #include <iostream>
 
@@ -29,4 +29,4 @@ int BusquedaSecuencial(int array[], int dato) {
 }
 
 
-#endif //EXTRACLASE_3_DATOSII_SEQS_HPP
+#endif //EXTRACLASE_3_DATOSII_SEQS_H
